@@ -67,7 +67,7 @@ Tool	Description
 
 **Author**
 
-Built by [Priyansh Neema] for MCP_Hack//2026
+Built by [Priyansh Neema]
 
 If you like this project Give it a ⭐ on GitHub!
 
